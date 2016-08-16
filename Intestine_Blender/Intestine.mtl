@@ -1,0 +1,52 @@
+# Blender MTL File: 'Intestine_07.blend'
+# Material Count: 5
+
+newmtl TechPipe
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Intestine_Material_IDs.png
+
+newmtl TechRing
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.800000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Intestine_Material_IDs.png
+
+newmtl TechSideLane
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Intestine_Material_IDs.png
+
+newmtl TechSideLane_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl TunnelMeat.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Intestine_Material_IDs.png
+map_Bump Intestine_Tileable_HeightMap.png

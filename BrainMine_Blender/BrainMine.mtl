@@ -1,0 +1,23 @@
+# Blender MTL File: 'BrainMine_04.blend'
+# Material Count: 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.173355 0.173355 0.173355
+Kd 0.000000 0.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd UVGrid.png
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.173355 0.173355 0.173355
+Kd 0.000000 1.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd UVGrid.png
+map_Bump BrainMeat_Tileable_HeightMap.png
